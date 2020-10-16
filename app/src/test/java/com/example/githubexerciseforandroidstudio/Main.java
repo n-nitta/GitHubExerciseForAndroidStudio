@@ -6,6 +6,6 @@ public class Main {
     @Test
     public void test() {
         System.out.println("Hello Android!!");
-        System.out.println("新田直也でございます。");
+        System.out.println("新田直也です。");
     }
 }
